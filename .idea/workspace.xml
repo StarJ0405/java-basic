@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de8517c0-128f-435c-9a08-ad89f53156c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/Variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam/VariableExam1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam/VariableExam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/LogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/OperatorExam1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +39,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.LogicalOperator.executor": "Run",
     "Application.Main.executor": "Debug",
+    "Application.Operator.executor": "Run",
+    "Application.OperatorExam1.executor": "Run",
     "Application.Print.executor": "Run",
     "Application.Variable.executor": "Run",
     "Application.VariableExam1.executor": "Run",
@@ -61,6 +62,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day1" />
       <recent name="exam" />
     </key>
   </component>
