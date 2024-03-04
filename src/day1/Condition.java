@@ -26,7 +26,7 @@ public class Condition {
         }
 
         // 1. 맑음, 2. 흐림, 3. 비, 4. 눈
-        int weather = 4;
+        int weather = 1;
         // 맑음 : 날씨가 맑습니다. 나들이 가세요.
         // 흐림 : 날씨가 흐립니다. 집에 계세요.
         /// 비 : 날씨가 비옵니다. 우산을 챙기세요.
@@ -38,6 +38,15 @@ public class Condition {
         if (weather == 3)
             System.out.println("비 : 날씨가 비옵니다. 우산을 챙기세요.");
         if (weather == 4)
+            System.out.println("눈 : 날씨가 눈옵니다. 눈사람을 만드세요.");
+
+        if (weather == 1)
+            System.out.println("맑음 : 날씨가 맑습니다. 나들이 가세요.");
+        else if (weather == 2)
+            System.out.println("흐림 : 날씨가 흐립니다. 집에 계세요.");
+        else if (weather == 3)
+            System.out.println("비 : 날씨가 비옵니다. 우산을 챙기세요.");
+        else if (weather == 4)
             System.out.println("눈 : 날씨가 눈옵니다. 눈사람을 만드세요.");
     }
 }

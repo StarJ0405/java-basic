@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de8517c0-128f-435c-9a08-ad89f53156c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day1/LogicalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam/OperatorExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/ConditionChoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/ConditionExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/ConditionExam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/ConditionExam3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/ConditionExam4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/Condition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/Condition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +35,21 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2dCWBZGVAqBUYpZgaNJbiZJBdxN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Condition.executor": "Debug",
+    "Application.ConditionChoice.executor": "Run",
+    "Application.ConditionExam1.executor": "Run",
+    "Application.ConditionExam2.executor": "Run",
+    "Application.ConditionExam3.executor": "Run",
+    "Application.ConditionExam4.executor": "Run",
     "Application.LogicalOperator.executor": "Run",
     "Application.Main.executor": "Debug",
     "Application.Operator.executor": "Run",
@@ -62,8 +73,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="day1" />
       <recent name="exam" />
+      <recent name="day1" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -88,5 +99,21 @@
     <envs>
       <env key="LANG" value="ko_KR.UTF-8" />
     </envs>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day1/Condition.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day1/Condition.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
