@@ -23,15 +23,5 @@ public class Main {
         System.out.println("국밥");
         System.out.println("제육");
         System.out.println("내 사랑");
-
-        System.out.println("내 사랑");System.out.println("내 사랑");System.out.println("내 사랑");
-        System.out.println("내 사랑");
-        System.out.println("내 사랑");
-        System.out.println("내 사랑");
-        System.out.println("내 사랑");
-        System.out.println("내 사랑");
-        System.out.println("내 사랑");
-
-
     }
 }
