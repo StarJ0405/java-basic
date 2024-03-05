@@ -1,4 +1,4 @@
-package exam;
+package day1.exam;
 
 public class OperatorExam1 {
     public static void main(String[] args) {

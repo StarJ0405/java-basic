@@ -5,13 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de8517c0-128f-435c-9a08-ad89f53156c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day1/ConditionChoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam/ConditionExam1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam/ConditionExam2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam/ConditionExam3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam/ConditionExam4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/DoubleLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/IncDecOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/ObjectAndClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/exam/ArrayExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/exam/ArrayExam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/exam/ArrayExam3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/exam/ArrayExam4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/exam/DoubleLoopExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/exam/DoubleLoopExam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/exam/DoubleLoopExam3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/exam/DoubleLoopExam4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/exam/DoubleLoopExam5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/exam/LoopExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/exam/LoopExam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/exam/LoopExam3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/exam/LoopExam4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/exam/ObjectExam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/Condition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/Condition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exam/ConditionExam1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/exam/ConditionExam1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exam/ConditionExam2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/exam/ConditionExam2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exam/ConditionExam3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/exam/ConditionExam3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exam/ConditionExam4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/exam/ConditionExam4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exam/OperatorExam1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/exam/OperatorExam1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exam/VariableExam1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/exam/VariableExam1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exam/VariableExam2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/exam/VariableExam2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +64,30 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Array.executor": "Run",
+    "Application.ArrayExam.executor": "Run",
+    "Application.ArrayExam2.executor": "Run",
+    "Application.ArrayExam4.executor": "Run",
     "Application.Condition.executor": "Debug",
     "Application.ConditionChoice.executor": "Run",
     "Application.ConditionExam1.executor": "Run",
     "Application.ConditionExam2.executor": "Run",
     "Application.ConditionExam3.executor": "Run",
     "Application.ConditionExam4.executor": "Run",
+    "Application.DoubleLoop.executor": "Run",
+    "Application.DoubleLoopExam1.executor": "Run",
+    "Application.DoubleLoopExam3.executor": "Run",
+    "Application.DoubleLoopExam4.executor": "Run",
+    "Application.DoubleLoopExam5.executor": "Run",
     "Application.LogicalOperator.executor": "Run",
+    "Application.Loop.executor": "Run",
+    "Application.LoopExam1.executor": "Run",
+    "Application.LoopExam2.executor": "Run",
+    "Application.LoopExam3.executor": "Run",
+    "Application.LoopExam4.executor": "Run",
     "Application.Main.executor": "Debug",
+    "Application.ObjectAndClass.executor": "Run",
+    "Application.ObjectExam.executor": "Run",
     "Application.Operator.executor": "Run",
     "Application.OperatorExam1.executor": "Run",
     "Application.Print.executor": "Run",
@@ -63,7 +99,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/admin/Desktop/git-work-clone-test",
+    "last_opened_file_path": "C:/Users/admin/IdeaProjects/Maven/HalfSurvival",
     "onboarding.tips.debug.path": "C:/Users/admin/IdeaProjects/exam1/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -74,8 +110,85 @@
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="exam" />
+      <recent name="day2" />
       <recent name="day1" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.ObjectExam">
+    <configuration name="ArrayExam1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.exam.ArrayExam1" />
+      <module name="exam1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day1.exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayExam2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.exam.ArrayExam2" />
+      <module name="exam1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day1.exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayExam4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.exam.ArrayExam4" />
+      <module name="exam1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day1.exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectAndClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.ObjectAndClass" />
+      <module name="exam1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.exam.ObjectExam" />
+      <module name="exam1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ObjectExam" />
+        <item itemvalue="Application.ObjectAndClass" />
+        <item itemvalue="Application.ArrayExam4" />
+        <item itemvalue="Application.ArrayExam2" />
+        <item itemvalue="Application.ArrayExam1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
