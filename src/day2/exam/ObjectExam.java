@@ -62,6 +62,19 @@ public class ObjectExam {
         System.out.println(w1.name + "이 " + w1.attack + "의 데미지를 입힙니다."); // 강감찬이 15의 데미지를 입힙민다.
 
     }
+
+    static class Cat {
+        String name;
+        int age;
+        String kind;
+    }
+
+    static class Warrior {
+        String name;
+        int attack;
+        int defense;
+    }
+
 }
 
 // ===========================================================
@@ -71,22 +84,11 @@ class Person {
     int age;
 }
 
+
 class Car {
     String model;
     String color;
     int speed;
-}
-
-class Cat {
-    String name;
-    int age;
-    String kind;
-}
-
-class Warrior {
-    String name;
-    int attack;
-    int defense;
 }
 
 
