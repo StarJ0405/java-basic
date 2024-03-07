@@ -5,30 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de8517c0-128f-435c-9a08-ad89f53156c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day3/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/LocalVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/Parameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/Reference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/Return.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/Scope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/exam/LocalVariableExam1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/exam/LocalVariableExam2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/exam/LocalVariableExam3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/exam/LocalVariableExam4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/exam/LocalVariableExam5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/exam/MethodExam1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/exam/MethodExam2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/exam/ParameterExam1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/exam/ParameterExam2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/exam/ParameterExam3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/exam/ParameterExam4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/exam/ReturnExam1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/exam/ReturnExam2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/exam/ReturnExam3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/exam/ReturnExam4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/Composition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/exam/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/exam/AccountExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/exam/CastingExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/exam/CastingExam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/exam/CompositionExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/exam/InheritanceExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/exam/InheritanceExam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/exam/InheritanceExam3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/exam/InheritanceExam4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/exam/InheritanceExam5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/exam/InheritanceExam6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/exam/InheritanceExam7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/exam/WarriorSimulation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/exam/ObjectExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/exam/ObjectExam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,10 +54,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AccountExam.executor": "Run",
     "Application.Array.executor": "Run",
     "Application.ArrayExam.executor": "Run",
     "Application.ArrayExam2.executor": "Run",
     "Application.ArrayExam4.executor": "Run",
+    "Application.CastingExam1.executor": "Run",
+    "Application.CastingExam2.executor": "Run",
+    "Application.CompositionExam.executor": "Run",
     "Application.Condition.executor": "Debug",
     "Application.ConditionChoice.executor": "Run",
     "Application.ConditionExam1.executor": "Run",
@@ -76,11 +73,16 @@
     "Application.DoubleLoopExam3.executor": "Run",
     "Application.DoubleLoopExam4.executor": "Run",
     "Application.DoubleLoopExam5.executor": "Run",
+    "Application.InheritanceExam2.executor": "Run",
+    "Application.InheritanceExam5.executor": "Run",
+    "Application.InheritanceExam7 (1).executor": "Run",
+    "Application.InheritanceExam7.executor": "Run",
     "Application.LocalVariable.executor": "Run",
     "Application.LocalVariableExam1 (1).executor": "Run",
     "Application.LocalVariableExam1.executor": "Run",
     "Application.LocalVariableExam3.executor": "Run",
     "Application.LocalVariableExam4.executor": "Run",
+    "Application.LocalVariableExam5.executor": "Run",
     "Application.LogicalOperator.executor": "Run",
     "Application.Loop.executor": "Run",
     "Application.LoopExam1.executor": "Run",
@@ -107,12 +109,18 @@
     "Application.Variable.executor": "Run",
     "Application.VariableExam1.executor": "Run",
     "Application.VariableExam2.executor": "Run",
+    "Application.WarriorSimulation (1).executor": "Run",
+    "Application.WarriorSimulation (2).executor": "Run",
+    "Application.WarriorSimulation (3).executor": "Run",
+    "Application.WarriorSimulation (4).executor": "Run",
+    "Application.WarriorSimulation.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/admin/IdeaProjects/exam1/src/day3/exam",
+    "last_opened_file_path": "C:/Users/admin/IdeaProjects/exam1/src/day4/exam",
     "onboarding.tips.debug.path": "C:/Users/admin/IdeaProjects/exam1/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -121,24 +129,28 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="day4.exam" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\IdeaProjects\exam1\src\day4\exam" />
       <recent name="C:\Users\admin\IdeaProjects\exam1\src\day3\exam" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day4" />
+      <recent name="day4.exam" />
       <recent name="day3.exam" />
       <recent name="day3" />
       <recent name="exam" />
-      <recent name="day2" />
-      <recent name="day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LocalVariableExam5">
-    <configuration name="LocalVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.LocalVariable" />
+  <component name="RunManager" selected="Application.WarriorSimulation (4)">
+    <configuration name="WarriorSimulation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.exam.WarriorSimulation" />
       <module name="exam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3.*" />
+          <option name="PATTERN" value="day4.exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalVariableExam1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.exam.LocalVariableExam1" />
+    <configuration name="WarriorSimulation (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.exam.WarriorSimulation" />
       <module name="exam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3.exam.*" />
+          <option name="PATTERN" value="day4.exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalVariableExam3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.exam.LocalVariableExam3" />
+    <configuration name="WarriorSimulation (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.exam.WarriorSimulation" />
       <module name="exam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3.exam.*" />
+          <option name="PATTERN" value="day4.exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalVariableExam4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.exam.LocalVariableExam4" />
+    <configuration name="WarriorSimulation (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.exam.WarriorSimulation" />
       <module name="exam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3.exam.*" />
+          <option name="PATTERN" value="day4.exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalVariableExam5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.exam.LocalVariableExam5" />
+    <configuration name="WarriorSimulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.exam.WarriorSimulation" />
       <module name="exam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3.exam.*" />
+          <option name="PATTERN" value="day4.exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LocalVariableExam5" />
-        <item itemvalue="Application.LocalVariableExam3" />
-        <item itemvalue="Application.LocalVariableExam4" />
-        <item itemvalue="Application.LocalVariable" />
-        <item itemvalue="Application.LocalVariableExam1 (1)" />
+        <item itemvalue="Application.WarriorSimulation (4)" />
+        <item itemvalue="Application.WarriorSimulation (3)" />
+        <item itemvalue="Application.WarriorSimulation (2)" />
+        <item itemvalue="Application.WarriorSimulation (1)" />
+        <item itemvalue="Application.WarriorSimulation" />
       </list>
     </recent_temporary>
   </component>
