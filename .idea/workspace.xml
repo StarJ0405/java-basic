@@ -5,22 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de8517c0-128f-435c-9a08-ad89f53156c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day4/Casting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/Composition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/exam/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/exam/AccountExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/exam/CastingExam1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/exam/CastingExam2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/exam/CompositionExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/exam/InheritanceExam1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/exam/InheritanceExam2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/exam/InheritanceExam3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/exam/InheritanceExam4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/exam/InheritanceExam5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/exam/InheritanceExam6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/exam/InheritanceExam7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/exam/WarriorSimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/ConstructorChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/Foramt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/exam/ConstructorExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/exam/ConstructorExam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/exam/ConstructorExam3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/exam/ConstructorExam4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/exam/ConstructorExam5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/exam/ConstructorExam6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/exam/DuckSimulaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/exam/OverloadingExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/exam/RemoteControlSimulation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +38,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -68,11 +69,23 @@
     "Application.ConditionExam2.executor": "Run",
     "Application.ConditionExam3.executor": "Run",
     "Application.ConditionExam4.executor": "Run",
+    "Application.ConstructorChain (1).executor": "Run",
+    "Application.ConstructorChain.executor": "Run",
+    "Application.ConstructorExam4.executor": "Run",
+    "Application.ConstructorExam5.executor": "Run",
+    "Application.ConstructorExam6 (1).executor": "Run",
+    "Application.ConstructorExam6 (2).executor": "Run",
+    "Application.ConstructorExam6 (3).executor": "Run",
+    "Application.ConstructorExam6 (4).executor": "Run",
+    "Application.ConstructorExam6 (5).executor": "Run",
+    "Application.ConstructorExam6.executor": "Run",
     "Application.DoubleLoop.executor": "Run",
     "Application.DoubleLoopExam1.executor": "Run",
     "Application.DoubleLoopExam3.executor": "Run",
     "Application.DoubleLoopExam4.executor": "Run",
     "Application.DoubleLoopExam5.executor": "Run",
+    "Application.DuckSimulaction.executor": "Run",
+    "Application.Foramt.executor": "Run",
     "Application.InheritanceExam2.executor": "Run",
     "Application.InheritanceExam5.executor": "Run",
     "Application.InheritanceExam7 (1).executor": "Run",
@@ -96,12 +109,14 @@
     "Application.ObjectExam.executor": "Run",
     "Application.Operator.executor": "Run",
     "Application.OperatorExam1.executor": "Run",
+    "Application.OverloadingExam1.executor": "Run",
     "Application.Parameter.executor": "Run",
     "Application.ParameterExam2.executor": "Run",
     "Application.ParameterExam3.executor": "Run",
     "Application.ParameterExam4.executor": "Run",
     "Application.Print.executor": "Run",
     "Application.Reference.executor": "Run",
+    "Application.RemoteControlSimulation.executor": "Run",
     "Application.Return.executor": "Run",
     "Application.ReturnExam1.executor": "Run",
     "Application.ReturnExam3.executor": "Run",
@@ -125,7 +140,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "terminal"
+    "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -136,15 +151,83 @@
       <recent name="C:\Users\admin\IdeaProjects\exam1\src\day4\exam" />
       <recent name="C:\Users\admin\IdeaProjects\exam1\src\day3\exam" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="day4.exam" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day5" />
+      <recent name="day5.exam" />
       <recent name="day4" />
       <recent name="day4.exam" />
       <recent name="day3.exam" />
-      <recent name="day3" />
-      <recent name="exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WarriorSimulation (4)">
+  <component name="RunManager" selected="Application.DuckSimulaction">
+    <configuration name="ConstructorChain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day5.ConstructorChain" />
+      <module name="exam1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstructorChain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day5.ConstructorChain" />
+      <module name="exam1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuckSimulaction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day5.exam.DuckSimulaction" />
+      <module name="exam1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day5.exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Foramt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day5.Foramt" />
+      <module name="exam1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OverloadingExam1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day5.exam.OverloadingExam1" />
+      <module name="exam1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day5.exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WarriorSimulation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day4.exam.WarriorSimulation" />
       <module name="exam1" />
@@ -197,26 +280,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WarriorSimulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day4.exam.WarriorSimulation" />
-      <module name="exam1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day4.exam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WarriorSimulation (4)" />
-        <item itemvalue="Application.WarriorSimulation (3)" />
-        <item itemvalue="Application.WarriorSimulation (2)" />
-        <item itemvalue="Application.WarriorSimulation (1)" />
-        <item itemvalue="Application.WarriorSimulation" />
+        <item itemvalue="Application.DuckSimulaction" />
+        <item itemvalue="Application.OverloadingExam1" />
+        <item itemvalue="Application.ConstructorChain (1)" />
+        <item itemvalue="Application.ConstructorChain" />
+        <item itemvalue="Application.Foramt" />
       </list>
     </recent_temporary>
   </component>
